@@ -107,8 +107,8 @@ This trail was much more difficult, besides being my first time, it was narrower
 </p>
 <br>
 
-And here is the great point of this adventure
-**I`ve get totally lost**
+And here is the great point of this adventure.
+ **I`ve get totally lost**
 
 Following the trail, I've came up on a downside river, and I can't see the trail continuation. 
 I see a bunch of rocks upstairs, so I started to climb, to get nowhere.
@@ -199,7 +199,7 @@ Was my first trekking, passing one day in wild nature.
 The best trip of my life.
 
 <p align="middle">
-  <video controls="true" width="80%" alt="goodbye island" src="https://pandora-boxx.s3.amazonaws.com/VID_20210216_111414.mp4" width="350px">
+  <video controls="true" width="100%" alt="goodbye island" src="https://pandora-boxx.s3.amazonaws.com/VID_20210216_111414.mp4" width="350px">
 <br>
   <small>See you in next time, Ilha Grande 💖</small>
 </p>
