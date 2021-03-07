@@ -36,7 +36,7 @@ I was think to take a uber, but I was inspired by the adventure spirit, and for 
 </p>
 <br>
 <p align="middle">
-  <img alt="Planned routed, as described" src="https://lh4.googleusercontent.com/Trg4SQIMlBTyfKtx0EujovUJXuTsFFo3AgUvOjdYE2JngK2FPFNoNACYsQ5CCRiTrBs-Qt-Z3bhGlOk9po8_=w2160-h1288-rw" width="350px">
+  <img alt="Planned routed, as described" src="https://pandora-boxx.s3.amazonaws.com/IMG_20210213_081304.jpg" width="350px">
 <br>
   <small>Saying goodbie to the noise cars of the city</small>
 </p>
@@ -49,7 +49,7 @@ When I arrived in the island, I imediatelly started my journey to Dois Rios.
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4799661287/embed/d65ea1dbe0beac65baaf2a814bebde217a11064b'></iframe>
 </p>
 Climbing the 780 meters of altitude on the first trail, I started to sweat too much, due to the 15kg backpack I carried on my back, containing all the camping material, some food and 4l of water.
-<br>
+<br><br>
 <p align="middle">
   <img alt="Planned routed, as described" src="https://lh3.googleusercontent.com/fife/ABSRlIq8NnG-bygrb-Cp4YA8_69lymkhXbOTa-c9K3YxaWgd0IkHj-cRCOzmu9RmsHe2cpjKw3KpSUFdokRONYGgduaUcryf_2bsk_2oDZbtjGhlx7S3Mfimz7mJ6KvxMx5Wq8AQpI9k5xZbG-kNl74A8zZtkXU7r0k-1Hn4oUe9aztuCLkuLlfef79ZyxR52pt8BzhMQc_-2ujTIeExK0vpFS0n-tI4dONJfXY1TmmFxkopMazujCtXLTfxUgeWNI_IQRGhnf9Ls-ci-_mARnXOFVD8hzUCEcoPRz9HcPEGx8Cev6caohxJ4dSXsWy_CAbgVvoVEF8jWMqz1aJXU2CdISQOK5GQkZgJ5UH0vL6J5h9IB1EiRWgBZ4PCPP5xqztK5-6-teuTndbSTe3P-fjs2xbnRKIpABZpSEvnzfz63CkFWa9pivcoou8WMs71mnAfhx51UeujfVq1E0JRPIxvm7t9VXPaqQGdkMx156_FZ2qFN0tGsh6Cw3GBgK4xz24Dmb8D7lD3BPRXnNKCxQKFxBPvCYQ4SiW7IqVEl7Vdo_Jc2BT_8YBRs5XsOpTSpt4rVGeCUT_FhiOoBEjKhB4KQBts_QVo8YP28j3XWytqzfeEjK6dmPowhTuke6KyIHnel-WNJCKz_nEqgvC7pq_dJ9uA72zwEBrr4ygakEFMqNVGrDhLbgGahlF_fWhaMe9OTgkKH4fpO0yJzBwCfAXrRoPIe2KzwIz16Gs=w2160-h1288-f" width="350px">
 <br>
@@ -82,11 +82,11 @@ Like the name says, (Two Rivers), Dois Rios is a beutiful beach with two rivers 
 </p>
 <br>
 After this amazing view and good rest on those clean waters, I package all my stuff again and continue to Parnaioca.
-<br>
+<br><br>
 <p align="middle">
   <img alt="Selfie with backpack" src="https://lh3.googleusercontent.com/fife/ABSRlIrLlyD5LBujg6Lg6o4zdFjcyRNfCxxSbcwwbOWGbtdMT_EgXwwCxx4LmyjT1BSpiD0IrFU7TyUzwCnRBy-gElgK41wS8BqCF9Gq8zWSRoAcw1R_LtY4gqfrfPLlmIs3Tk4DA3MUsTSF2bzix2dk4H7zmATBXyZM3Iqg4KXX8ao5ooRPVJLi_FkiDkX0GhIHe9xl0EPk41rJklQ7qP78hovJPhyb42iSA8SppGTOjI5mS8_z_sA_ylhpx1J_59jAaKbUATlM4BxLEBgRh71CGY47iUMANuQyceTBDieKyeH6-vo9rZ_JnZHTZa1y0b9_NkJ7JTAYjZkrT3Ru2OCIJg9vYLU2x35YtDWsfdSTnxKFZwMFkM67krXx9N9vShnXwrNp_i9HBOU-AvS0NMKSqlvbenD0wIuFpgZapgPwLfWrVAmzTfNY-Nz2TKM-MgNEduFPFwZzi01Cn9LfIuzubh2oQ3ZNtzmAehDP1DUbhgUjE9LOW-P0ZxT0NoKRlpZgdabj4n2ZLqKF_9WolIDd2DNTVwDy-LCyWnGLfLGcli4X-kROvp_V7tIAAN00hIkYfDfVztMSEQOrRZXjNs_i_3q5JSg8oIqgUFH6LRq9AidCvEB1k8i0Eh1TVwahWr8f8OuJ3oPxo_FdTZKZOsy70mHgDPUIFi8-plkETymolT6x0OJeOeYWplqY7FwaVhc2YGCxCgWdmcnj4h5OQ4U5LaKN5VE9d33_XGo=w1543-h1288-ft" width="350px">
 <br>
-  <small>All clear to continue to parnaioca</small>
+  <small>All clear to continue to parnaioca, with rain clothes</small>
 </p>
 <br>
 ## Stage 2
@@ -101,7 +101,7 @@ This trail was much more difficult, besides being my first time, it was narrower
   <small>Parnaioca trail</small>
 </p>
 <p align="middle">
-  <video controls="true" alt="Selfie with backpack" src="https://r5---sn-bg0eznek.c.drive.google.com/videoplayback?expire=1614576031&ei=X0E8YLOIJZOAlAP5-6aQBQ&ip=2804:431:c7c6:a3e8:89a6:2dc:d7a5:a112&cp=QVRGVkZfVVBRQlhPOl9nUWZTeXlwdVdiV3Z0RVZ5WllfXzdMR2RoUHB1aEpnRWFMQjJXZU1pMW4&id=c86b29d2b5ad3a22&itag=18&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=1rcTxNPOlJEWSXZAj4rKLzHsU5lqJ3_QF&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=14.164&lmt=1614558970854036&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgCUvITL5H9n6kbPO2MqtDTrRpyUTraGDJglROUzLzSYMCIQCm_Dku4ybhyqzgfdMFSaYm4x-Hzgt4ym5qvD6L8C2rqg==&cpn=RVt6aunz7aenvPM1&c=WEB_EMBEDDED_PLAYER&cver=1.20210224.1.0&redirect_counter=1&cm2rm=sn-bg0dk76&req_id=b2d45105f91436e2&cms_redirect=yes&mh=Kd&mm=34&mn=sn-bg0eznek&ms=ltu&mt=1614561391&mv=m&mvi=5&pl=47&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRQIhAPVRDdEPBvHGwVDCrmDzkBxa6aP_d_fxHVMCsVU4Q9ttAiA-3XSQB9gM1-Y6mdh3tq1WhY5QiUAo0OrDmSVFWeDLQw%3D%3D" width="350px">
+  <video controls="true" alt="Trail walking" src="https://pandora-boxx.s3.amazonaws.com/VID_20210213_151526.mp4" width="350px">
 <br>
   <small>Parnaioca trail</small>
 </p>
@@ -124,7 +124,7 @@ The moment I concluded that I was lost was very bad, in my mind passed bad thing
 </p>
 <br>
 
-**I find the trail back 🥳**, on the left of the river where did I came from. I left some camping stuff to mark the beggining of the trail, and get down again to camping and spend the night, to walk back on next morning.
+After climb 15 rocks, **I find the trail back 🥳**, on the left of the river where did I came from. I left some camping stuff to mark the beggining of the trail, and get down again to camping and spend the night, to walk back on next morning.
 
 I spend a lot of energy climbing those rocks.
 <br>
@@ -145,7 +145,7 @@ The GPS tracking shows the place I losted the trail.
 
 With no water, drinking just in some points of fresh water on the trail, this was the more hard segment.
 
-I hadn't thought about it, but camping in the middle of nature is noisy, many animals go out at night, so it was difficult to concentrate and I didn't have a good night's sleep.
+I hadn't thought about it, **but camping in the middle of nature is noisy**, many animals go out at night, so it was difficult to concentrate and I didn't have a good night's sleep.
 
 **I was weak, tired and hungry.**
 <br>
@@ -181,7 +181,7 @@ I was left with an insatiable hunger for the next few days, and the pain in my l
 <p align="middle">
   <img alt="Sea view" src="https://lh3.googleusercontent.com/fife/ABSRlIrfWeyH7EOD5f6Oa6wl_K9MH9KsXr3xkXFlMTJac6EYXOHWoIaara2USgu7Im9eKiDYkM78kJJFFDiYuZPAX4ABKYbz4NnKRJS23iX0fPOLTHCAcEVPqTYiDO0OEiXincc_AdUd2DhH6jRS_RVsA7iwjqRyjpuTb4Xw_v8VefY_YRfh-_QFrb-grZgstkNQ1YAxvwc101d9sXSslbZbLyC005kD5kGsYGtuQSXxfKGsRo2lW-sxao1jv-jn6GBw0NhdG_ZtMSPKT48G-si4ywmHZyrQw_FRq7gaYE379Zl10EsVJM8NcAdbweoB5eY6o6i-NhlybwDywfZd6icQKiD11Cy12SUO1-EeBOK-GljQKTwXaYFUlFiI04Cv8gIxXIxUimlJVFIG3Z6GwzrOvFrbxL0QTpr7VQG7yx7m5YX8C6rash53XPI6x1K1p1SqFYwzE6Il-nAtUZsuicUWuEUt3XYVqen2sjO6Dlmco-XNX676WYdjUS-XtK_F6EVFOGfdc6Vqk90eqr0KOTCSDJHzgMZYAcTQggchmegP7uDwf36q2Mr6sCxf1djYdDcOji4uKa76u5KYL3WC-TtODEGARb2eRm9xGGh0VQIf-yVJf2sdt-CeECvHEbViHOyRD-EgAgOOnzNT_hMDBqS_Ss35_Vl6XCuYzDyRyzXknfVyvyMMWNDadXKPJmvuUrEBQayQQik1Y4qGEctFpwCYG2DcMqWi35jf6Ew=w1543-h1288-ft" width="350px">
 <br>
-  <small>Margueritta Pizza, one of my favorites! </small>
+  <small>Margueritta Pizza, one of my favorites!<br>I had dinner for 3 nights at my favorite restaurant on the island. It has an award winning pizza.</small>
 </p>
 <br>
 
@@ -199,7 +199,7 @@ Was my first trekking, passing one day in wild nature.
 The best trip of my life.
 
 <p align="middle">
-  <video controls="true" width="80%" alt="Walking on the jungle video" src="https://r4---sn-bg0eznlz.c.drive.google.com/videoplayback?expire=1614576285&ei=XUI8YIiYNI60hwa7v4vwDg&ip=2804:431:c7c6:a3e8:89a6:2dc:d7a5:a112&cp=QVRGVkZfVVJWRlhPOl9nUWZVZGNwdVdiV3Z0R0FjWllfXzdMR2ZtVHB1aEpnRWFORzZXZU1pMW4&id=500a6e996c672771&itag=18&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=1FRmqT6IxM6uPeOKH3rWCi_-dZDnlG7Ua&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=8.870&lmt=1614559240195010&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAKeJJFI7SffRk94toVL3czNU7GTxpIQj7l1qBeThwyoPAiAg7xyIohaZ9CJwEPmhlZ9C4zUJl6Flya6uUP810O3i_Q==&cpn=QeRStC-iA1xWL35Q&c=WEB_EMBEDDED_PLAYER&cver=1.20210224.1.0&redirect_counter=1&cm2rm=sn-bg0ky7z&req_id=ab193723056236e2&cms_redirect=yes&mh=36&mm=34&mn=sn-bg0eznlz&ms=ltu&mt=1614561632&mv=m&mvi=4&pl=47&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRAIgea8bGdW8A3vacvVcAog8qwUDMKx85GFWVgmITiJNiC0CIFifjb5lPeTChqnpxrw3vRubkQEudEODKYODhvaDsS4P" width="350px">
+  <video controls="true" width="80%" alt="goodbye island" src="https://pandora-boxx.s3.amazonaws.com/VID_20210216_111414.mp4" width="350px">
 <br>
   <small>See you in next time, Ilha Grande 💖</small>
 </p>
