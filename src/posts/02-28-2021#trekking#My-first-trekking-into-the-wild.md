@@ -89,6 +89,7 @@ After this amazing view and good rest on those clean waters, I package all my st
   <small>All clear to continue to parnaioca, with rain clothes</small>
 </p>
 <br>
+
 ## Stage 2
 
 With soft rain, I`ve started walking to the next destinantion, Parnaioca beach.
