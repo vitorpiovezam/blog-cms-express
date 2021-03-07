@@ -4,7 +4,7 @@ var cors = require('cors');
 
 const app = express();
 const postService = new PostService();
-const port = process.env.port || 8000;
+const port = process.env.PORT || 8000;
 
 app.use(cors());
 app.get('/', (req, res) => res.send('🔥'));
