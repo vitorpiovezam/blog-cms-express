@@ -144,9 +144,10 @@ The GPS tracking shows the place I losted the trail.
 
 ## Stage 3, the return
 
-With no water, drinking just in some points of fresh water on the trail, this was the more hard segment.
-
 I hadn't thought about it, **but camping in the middle of nature is noisy**, many animals go out at night, so it was difficult to concentrate and I didn't have a good night's sleep.
+
+I woke up, and buy my supplies level, immediately package all my stuff to go back.
+With no water, drinking just in some points of fresh water on the trail, this was the more hard segment.
 
 **I was weak, tired and hungry.**
 <br>
@@ -162,11 +163,11 @@ This are so far the most challenging moment of my life. In half of the walk, the
 <p align="middle">
   <img alt="Sea view" src="https://lh3.googleusercontent.com/fife/ABSRlIq77hTUA_FA1YMoKIDurukVpqUhzdZYVDfEv8h8vQwoH1BLNRzvce6XS7bEZmGtOaJQ75orbS0wPUaQsxf1LCB8VfQet6oSVsaVcb-FWJU-MT7CEzXQdAWoBvlzsncBpLcNe48LpfS0c004PR28GRrHmt4JzKlXgpZZ_kZNhxVl0n2u_WNnUotXN4hHVnoPAR_2CZOX-D_X7_JHKj5WkxCeiB7GY4H1Sm29ZredUyqxb-MXCN3fD6K6eBwvXsMMMxcgkKjmt6AQvUGsEuIAO5QFoFIPj1nmM1cLZVra0LeyJHwo7gy7QZcZwn0Az542zAj_4Q9UJUdGBtQJDOZalBRJcvPI5gVd9qXvo7Mi3r5JRKPTMRe8bs_3OmrjFiawM9AqvTYYfRL8hrofswdY1R9e5tMx-fNa9xosXu-Wwndz28C3bHFe7wy0RbMKTPdF1I1pnnL6KR2SrWRMJjSzFO5nkqqRtLokUqPaYgOcry2-u-gnaGWlDMDgaNV6mFPJ6c0h-uyFNKTlYcVZZubQfu-5KlXdFTtDyHLkCE0oQXjNcpbBBLAIn84LeUu-ZTYiZKmA9W75Pio_hygGBCNBf2_ndML_IN2zGLaXQ_hBZEr7q_ZpX24g8jHRFZgGLzKRvPqX2EK7lFOskCuqYnDpfppyY4_iLxSk4qMxSDK4IQ-yeSlPP3NRcC9mB24ge1HFkPo7hAG-JIL7ajiRgeFCzwmXN9W8ikuXIII=w1543-h1288-ft" width="350px">
 <br>
-  <small>Way back, I was so tired that I cant even turn on GPS, all focused to keep walking</small>
+  <small>Way back, I was so tired that I cant even turn on GPS, all focused to keep walking, open with a right click this fullsize photo to see the fadigue signals from my face.</small>
 </p>
 <br>
 
-My body started to miss nutrients, I started to sweat too much and lose a lot of liquid.
+My body started to miss nutrients. I started to sweat too much and lose a lot of liquid.
 For the last 2km I walked like a zombie, my arms, legs and feets were completely fatigued.
 
 When I come up the first traces of civilizations, some home from Island residents, I get some water from a gentle woman. Buied some Ice Creams and drink a Coke. 
