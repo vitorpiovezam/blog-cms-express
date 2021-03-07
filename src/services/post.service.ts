@@ -39,7 +39,7 @@ export class PostService {
         slug: this.applyRegexAndVerifyIfExists(filename, /[^#]*$/).toLocaleLowerCase(),
         title: this.applyRegexAndVerifyIfExists(filename, /[^#]*$/).replace(/-/g, ' ')
         .slice(0, -3),
-        type: this.applyRegexAndVerifyIfExists(filename, /(['#])(?:(?=(\\?))\2.)+\1/).replace(/#/g, ' '),
+        type: this.applyRegexAndVerifyIfExists(filename, /(['#])(?:(?=(\\?))\2.)+\1/).replace(/#/g, ' ').trim(),
         post: markdown,
         textPreview: this.getPreview(markdown),
         postDate: new Date(filename.substring(0,10))
