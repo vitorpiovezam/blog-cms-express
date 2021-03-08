@@ -6,7 +6,7 @@
 
   
 
-Developed by Facebook at 2012, [*GraphQL](https://graphql.org/)* is a language to - in a very fast and simple way - manipulate and request data for the client side of your application.
+Developed by Facebook at 2012, [*GraphQL*](https://graphql.org/) is a language to - in a very fast and simple way - manipulate and request data for the client side of your application.
 
   
 
