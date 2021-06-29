@@ -32,7 +32,7 @@ export class PostService {
     const posts = [] as Post[];
     const files = fs.readdirSync(this.filesPath);
 
-    files.forEach((filename)=> {
+    files.forEach((filename : string)=> {
       let markdown = fs.readFileSync(`${this.filesPath}/${filename}`, 'utf8');
       
       const post: Post = {
